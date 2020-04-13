@@ -18,7 +18,8 @@ Line graph demonstrating differentiation of operator type.
 
 
 ## Resources
-[Jupyter Source Code File:](PyBer_Challenge2.ipynb)
-[Source database on cities:](city_data.csv)
-[Source database on drivers:](ride_data.csv)
+* [Jupyter Source Code File](PyBer_Challenge2.ipynb)
+* [Source database on cities](city_data.csv)
+* [Source database on drivers](ride_data.csv)
+
 
