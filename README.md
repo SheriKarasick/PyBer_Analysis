@@ -11,10 +11,10 @@ In this analysis, two key images are critial to providing the context clues that
 
 The first image is a data dashboard, that while narrow in scope is rich in content for company leaders to understand the critical difference between operators in each of their three region types.
 
-![Data overview of driver type](/Resources/PyBerDataTable.png)
+![Data overview of driver type](/PyBerDataTable.png)
 
 *Line graph demonstrating differentiation of operator type.*
-![Data overview of driver type](/Resources/Fig1a.png)
+![Data overview of driver type](/Fig1a.png)
 
 
 ## Resources
