@@ -13,7 +13,7 @@ The first image is a data dashboard, that while narrow in scope is rich in conte
 
 ![Data overview of driver type](/PyBerDataTable.png)
 
-*Line graph demonstrating differentiation of operator type.*
+Line graph demonstrating differentiation of operator type.
 ![Data overview of driver type](/Fig1a.png)
 
 
