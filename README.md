@@ -16,7 +16,7 @@ The first image is a data dashboard, that while narrow in scope is rich in conte
 Line graph demonstrating differentiation of operator type.
 ![Data overview of driver type](/Pyber.png)
 
-The charts combine demonstrate that for operators in Urban environments, there is significantly more work available per driver.  They make subsantially more revenue comparable to Suburban and Rural drivers.  Rural drivers make the least amount of revenue and experience the least opportunity for work in their communities.  
+The charts combined demonstrate that for operators in Urban environments, there is significantly more work available per driver.  They make subsantially more revenue comparable to Suburban and Rural drivers.  Rural drivers make the least amount of revenue and experience the least opportunity for work in their communities.  
 
 ## Resources
 * [Jupyter Source Code File](PyBer_Challenge2.ipynb)
