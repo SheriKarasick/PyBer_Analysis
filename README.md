@@ -14,11 +14,11 @@ The first image is a data dashboard, that while narrow in scope is rich in conte
 ![Data overview of driver type](/PyBerDataTable.png)
 
 Line graph demonstrating differentiation of operator type.
-![Data overview of driver type](/Fig1a.png)
+![Data overview of driver type](/Pyber.png)
 
 
 ## Resources
-Jupyter Source Code File: PyBer_Challenge2.ipynb
-Source database on cities: 
-Source database on drivers: 
+[Jupyter Source Code File:](PyBer_Challenge2.ipynb)
+[Source database on cities:](city_data.csv)
+[Source database on drivers:](ride_data.csv)
 
